@@ -157,13 +157,13 @@ nav a:hover {
   width: 96%;
   height: 50vh;
   flex: 1 0 auto;
-  background-image: url("./Images/CalorieHunter.jpg");
+  background-image: url("./Web.jpg");
   opacity: 0.7;
 
 }
 
 .big-card:hover {
-  background-image: url("./Images/CalorieHunter.jpg");
+  background-image: url("./Web.jpg");
   opacity: 1;
   border-style: solid;
   border-color: var(--highlight);
@@ -195,12 +195,12 @@ nav a:hover {
 
 /*--JiuJitsu Card--*/
 .JiuJitsu {
-  background-image: url("./Images/JiuJitsu.jpg");
+  background-image: url("./cloud.jpg");
   opacity: 0.7;
 }
 
 .JiuJitsu:hover {
-  background-image: url("./Images/JiuJitsu.jpg");
+  background-image: url("./cloud.jpg");
   opacity: 1;
   border-style: solid;
   border-color: var(--highlight);
@@ -209,12 +209,12 @@ nav a:hover {
 
 /*-- PasswordGenerator Card*/
 .PasswordGenerator {
-  background-image: url("./Images/PasswordGenerator.jpg");
+  background-image: url("./PasswordGenerator.jpg");
   opacity: 0.7;
 }
 
 .PasswordGenerator:hover {
-  background-image: url("./Images/PasswordGenerator.jpg");
+  background-image: url("./PasswordGenerator.jpg");
   opacity: 1;
   border-style: solid;
   border-color: var(--highlight);
@@ -223,12 +223,12 @@ nav a:hover {
 
 /*--CodeRefactor Card--*/
 .CodeRefactor {
-  background-image: url("./Images/Code.jpg");
+  background-image: url("./CodeRefactor.jpg");
   opacity: 0.7;
 }
 
 .CodeRefactor:hover {
-  background-image: url("./Images/Code.jpg");
+  background-image: url("./CodeRefactor.jpg");
   opacity: 1;
   border-style: solid;
   border-color: var(--highlight);
@@ -237,12 +237,12 @@ nav a:hover {
 
 /*--DailyPlanner Card--*/
 .DailyPlanner {
-  background-image: url("./Images/DailyPlanner.jpg");
+  background-image: url("./DailyPlanner.jpg");
   opacity: 0.7;
 }
 
 .DailyPlanner:hover {
-  background-image: url("./Images/DailyPlanner.jpg");
+  background-image: url("./DailyPlanner.jpg");
   opacity: 1;
   border-style: solid;
   border-color: var(--highlight);
